@@ -2,11 +2,11 @@
 
 ## Perfil
 - **Nome:** Hanna
-- **Empresa/Área:** Cliente Iceberg
+- **Empresa/Área:** Cliente Pulso
 - **Canal Wuphf:** #hanna
 
 ## Contexto
-Cliente ativo da Iceberg Company.
+Cliente ativo da Pulso.
 
 ## Issues Ativas
 _Gerado automaticamente pela bridge_
