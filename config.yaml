@@ -4,6 +4,9 @@
 cliente:
   nome: "Hanna Tattoo"
   slug: "hanna"
+  keywords:
+    - "Hanna"
+    - "Hanna Tattoo"
   inicio: ""
   plano: ""
   valor_mensal: ""
