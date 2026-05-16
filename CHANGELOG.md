@@ -24,3 +24,20 @@
 | 2026-05-16 23:30 UTC | DES-4 sync | Hanna: Faça um diagnóstico da situação da Hanna no marketing digital, junte tudo que falamos em acionáveis [done] |
 | 2026-05-16 23:30 UTC | DES-3 sync | Hanna: Apagar fogueira do cliente, precisa ver resultado de prova [done] |
 | 2026-05-16 23:30 UTC | DES-2 sync | Hanna: Pesquisar sobre marketing para tatuadores e fazer a oferta matadora pra Hanna [done] |
+| 2026-05-16 23:55 UTC | DES-310 | criado | Hanna: Fix hannatattoo.com.br blank site — rebuild + redeploy to Hostinger |
+| 2026-05-16 23:55 UTC | DES-306 | criado | Hanna: Ornato Site — Atualizar fotos e estilos das tatuagens a partir do Google Drive |
+| 2026-05-16 23:55 UTC | DES-298 | criado | Hanna: Analisar e auditar materiais do Drive — pasta Hanna |
+| 2026-05-16 23:55 UTC | DES-297 | criado | Hanna: Atualizar Onboarding Playbooks (DES-280) com learnings Hanna + Fruto da Vide |
+| 2026-05-16 23:55 UTC | DES-296 | criado | Hanna: Planejamentos separados por épico — Hanna (Ornato Estudio) |
+| 2026-05-16 23:55 UTC | DES-42 | criado | Hanna: Pacote de posts feed + criativos de anúncio — Hanna Almeida |
+| 2026-05-16 23:55 UTC | DES-13 | criado | Hanna: Redesign do site Ornato Estudio — design clean, moderno, fotos realistas |
+| 2026-05-16 23:55 UTC | DES-12 | criado | Hanna: Plano estratégico 6 meses + coordenação de entregas — Hanna Ornato |
+| 2026-05-16 23:55 UTC | DES-10 | criado | Hanna: Site/Landing Page — Portfólio Hanna Ornato Estudio |
+| 2026-05-16 23:55 UTC | DES-9 | criado | Hanna: Calendário de conteúdo + social media Mês 1 — Hanna Ornato |
+| 2026-05-16 23:55 UTC | DES-8 | criado | Hanna: Plano de tráfego pago — Google Ads + Meta Ads para Hanna Ornato |
+| 2026-05-16 23:55 UTC | DES-285 | criado | Hanna: Rodar o novo onboarding padrão da Pulso para essa cliente |
+| 2026-05-16 23:55 UTC | DES-361 | criado | Hanna: Refaça o onboarding, crie uma nova tarefa separada dessa aqui, use a referencia la da proposta visual da hanna, use os assets de transcricao das reunioes e faça o onboarding base pra gente, com os previews de LP, MIV basico, e alguns posts pra gerar vontade de fechar |
+| 2026-05-16 23:55 UTC | DES-11 | criado | Hanna: Scripts de atendimento + automação WhatsApp — Hanna Ornato |
+| 2026-05-16 23:55 UTC | DES-4 | criado | Hanna: Faça um diagnóstico da situação da Hanna no marketing digital, junte tudo que falamos em acionáveis |
+| 2026-05-16 23:55 UTC | DES-3 | criado | Hanna: Apagar fogueira do cliente, precisa ver resultado de prova |
+| 2026-05-16 23:55 UTC | DES-2 | criado | Hanna: Pesquisar sobre marketing para tatuadores e fazer a oferta matadora pra Hanna |
